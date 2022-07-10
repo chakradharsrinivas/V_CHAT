@@ -23,7 +23,6 @@ In order to use this project you will need to replace the agora credentials in `
 ##### 4 - Start server
 ```
 python manage.py runserver
-
 ```
 ##### Screenshots
 
